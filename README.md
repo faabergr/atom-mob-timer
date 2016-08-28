@@ -1,5 +1,14 @@
 # mob-timer package
 
-A short description of your package.
+A package for tracking when to switch the coder at the keyboard during mob programming.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## What is mob programming?
+
+Just wait, you'll see.
+
+## Cool features (upcoming)
+
+* Input list of mob programmers
+* Achievements
+* Sounds
+* Other neat stuff
