@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle mob-timer",
+        "command": "mob-timer:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "mob-timer",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "mob-timer:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
