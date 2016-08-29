@@ -1,10 +1,9 @@
 {
   "name": "mob-timer",
   "main": "./lib/mob-timer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Timer for switching participants during mob programming",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "mob-timer:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
