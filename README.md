@@ -14,3 +14,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Mob_programming): "Mob programmin
 * Achievements
 * Sounds
 * Other neat stuff
+
+## Credits
+
+* "Tada" sound by [jobro](https://www.freesound.org/people/jobro/sounds/60443/)
