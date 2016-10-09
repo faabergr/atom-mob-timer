@@ -1,7 +1,7 @@
 {
   "name": "mob-timer",
   "main": "./lib/mob-timer",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Timer for switching participants during mob programming",
   "keywords": [],
   "activationCommands": {
